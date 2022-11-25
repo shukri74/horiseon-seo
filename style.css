@@ -86,6 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Simplified code by grouping selectors */
+
 .benefit-lead,benefit-brand,benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
