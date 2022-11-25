@@ -6,7 +6,7 @@ In this project, I took on the task of fixing some of the errors in the code, ad
 
 Deployed Website : https://shukri74.github.io/horiseon-seo/
 
-## usage
+## Usage
 
 ![Horiseon Website](./assets/images/screenshot.PNG)
 
