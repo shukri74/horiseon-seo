@@ -9,7 +9,7 @@ Deployed Website : https://shukri74.github.io/horiseon-seo/
 ## usage
 
 ```md
-![Horiseon Website](assets/images/screenshot.png)
+![Horiseon Website](./assets/images/screenshot.PNG)
 ```
 Use the link in the Description to visit the Description
 
