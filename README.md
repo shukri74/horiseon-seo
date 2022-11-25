@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I took on the task of fixing some of the errors in the code, add some missing bits like and polish the code by adding semantic HTML elements and commenting code so that it follows best-practices
+In this project, I took on the task of fixing some of the errors in the code, add some missing bits like the metadata for example and polishing the code by adding semantic HTML elements and commenting code so that it follows best-practices
 
 Deployed Website : https://shukri74.github.io/horiseon-seo/
 
